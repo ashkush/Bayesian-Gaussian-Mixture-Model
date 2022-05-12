@@ -1,1 +1,3 @@
-# This is new readme file
+# Distributed Version of Scikit learn Implementation of Dirichlet process Gaussian Mixture Model (DPGMM)
+
+
